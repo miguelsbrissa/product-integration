@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Guia - Integração do produto",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Guia para a integração do produto"
   }
 }
