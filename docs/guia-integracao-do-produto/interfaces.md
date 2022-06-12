@@ -9,3 +9,6 @@ Interfaces são como categorias dos componentes do produto, cada CP pertence a u
 
 
 ![](imgs/interface.png)
+
+## Revisar interfaces
+Para garantir que todos os componentes do produto estejam na interface correta, é necessário que após identificados todos os **componentes do produto** revise as interfaces selecionadas para que elas estejam abrangendo todos os componentes do produto.
